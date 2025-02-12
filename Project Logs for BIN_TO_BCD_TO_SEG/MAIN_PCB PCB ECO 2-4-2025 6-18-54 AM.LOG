@@ -1,0 +1,35 @@
+Added Component: Designator=*8(5mm_LED_3V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(2.54mm_TH_1x3_pin_header)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(2.54mm_TH_1x3_pin_header)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(2.54mm_TH_1x3_pin_header)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R45(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "330"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=555_OUT_CLK Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H2-3
+Added Pin To Net: NetName=+5 Pin=H3-1
+Added Pin To Net: NetName=+5 Pin=H3-2
+Added Pin To Net: NetName=+5 Pin=H3-3
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=Net*8_1 Pin=*8-1
+Added Pin To Net: NetName=Net*8_1 Pin=H1-2
+Added Net: Name=Net*8_1
+Added Pin To Net: NetName=Net*8_2 Pin=*8-2
+Added Pin To Net: NetName=Net*8_2 Pin=R45-2
+Added Net: Name=Net*8_2
+Added Member To Class: ClassName=MAIN_BOARD Member=Component *8 5mm_RED_LED_3V
+Added Member To Class: ClassName=MAIN_BOARD Member=Component C1 SK010M050ST_1
+Added Member To Class: ClassName=MAIN_BOARD Member=Component C2 SK010M050ST_1
+Added Member To Class: ClassName=MAIN_BOARD Member=Component C3 SK010M050ST_1
+Added Member To Class: ClassName=MAIN_BOARD Member=Component H1 2.54mm_TH_1x3_pin_header
+Added Member To Class: ClassName=MAIN_BOARD Member=Component H2 2.54mm_TH_1x3_pin_header
+Added Member To Class: ClassName=MAIN_BOARD Member=Component H3 2.54mm_TH_1x3_pin_header
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R17 Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R45 Res_virtical
+Added Room: Name=MAIN_BOARD

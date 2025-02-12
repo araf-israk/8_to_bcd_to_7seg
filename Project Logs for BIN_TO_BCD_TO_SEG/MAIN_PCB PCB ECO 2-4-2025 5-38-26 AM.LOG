@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=+5 Pin=R17-1
+Removed Member From Class: ClassName=MAIN_BOARD Member=R17
+Removed Member From Class: ClassName=MAIN_BOARD Member=R18
+Added Component: Designator=R?(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "220"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=NetR19_3 Pin=R19-3
+Added Pin To Net: NetName=NetR19_3 Pin=R?-1
+Added Net: Name=NetR19_3
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U11-7
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R37 Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R38 Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R39 Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R40 Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R41 Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R42 Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R43 Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R44 Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R? Res_virtical
+Added Member To Class: ClassName=MAIN_BOARD Member=Component R? Res_virtical
+Added Room: Name=MAIN_BOARD

@@ -1,0 +1,31 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [BIN_TO_BCD_MODULE.PrjPcb]
+   Generated File[PCB1_Copper_Signal_Top.gbr]
+   Generated File[PCB1_Copper_Signal_1.gbr]
+   Generated File[PCB1_Copper_Signal_2.gbr]
+   Generated File[PCB1_Copper_Signal_Bot.gbr]
+   Generated File[PCB1_Pads_Bot.gbr]
+   Generated File[PCB1_Pads_Top.gbr]
+   Generated File[PCB1_Legend_Bot.gbr]
+   Generated File[PCB1_Soldermask_Bot.gbr]
+   Generated File[PCB1_Legend_Top.gbr]
+   Generated File[PCB1_Paste_Top.gbr]
+   Generated File[PCB1_Soldermask_Top.gbr]
+   Generated File[PCB1_Mechanical_13.gbr]
+   Generated File[PCB1_Mechanical_1.gbr]
+   Generated File[PCB1_Mechanical_15.gbr]
+   Generated File[PCB1_Profile.gbr]
+   Generated File[PCB1_NPTH_Drill.gbr]
+   Generated File[PCB1_PTH_Drill.gbr]
+   Generated File[PCB1_Drawing_1.gbr]
+   Generated File[PCB1_Drillmap_1.gbr]
+   Generated File[PCB1.RUL]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 11:12:48 PM On 1/9/2025

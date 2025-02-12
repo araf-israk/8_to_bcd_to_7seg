@@ -1,0 +1,114 @@
+Protel Design System Design Rule Check
+PCB File : D:\##ALTIUM DISIGNER\P1\BCD_TO_7SEG_MODULE\PCB_V0.PcbDoc
+Date     : 1/8/2025
+Time     : 6:06:16 AM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.05mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room U_NOT_GATE_56 (Bounding Region = (109.728mm, 101.153mm, 121.158mm, 111.313mm) (InComponentClass('U_NOT_GATE_56'))
+Rule Violations :0
+
+Processing Rule : Room U_OR_GATE_22 (Bounding Region = (50.656mm, 81.468mm, 64.118mm, 96.962mm) (InComponentClass('U_OR_GATE_22'))
+Rule Violations :0
+
+Processing Rule : Room U_OR_GATE_30 (Bounding Region = (66.04mm, 111.76mm, 79.502mm, 127.254mm) (InComponentClass('U_OR_GATE_30'))
+Rule Violations :0
+
+Processing Rule : Room U_NOT_GATE_53 (Bounding Region = (92.314mm, 80.302mm, 103.744mm, 90.462mm) (InComponentClass('U_NOT_GATE_53'))
+Rule Violations :0
+
+Processing Rule : Room U_NOT_GATE_54 (Bounding Region = (103.886mm, 80.264mm, 115.316mm, 90.424mm) (InComponentClass('U_NOT_GATE_54'))
+Rule Violations :0
+
+Processing Rule : Room U_NOT_GATE_55 (Bounding Region = (109.728mm, 90.678mm, 121.158mm, 100.838mm) (InComponentClass('U_NOT_GATE_55'))
+Rule Violations :0
+
+Processing Rule : Room U_XOR_GATE_00 (Bounding Region = (26.64mm, 111.573mm, 45.944mm, 126.051mm) (InComponentClass('U_XOR_GATE_00'))
+Rule Violations :0
+
+Processing Rule : Room U_XOR_GATE_20 (Bounding Region = (46.242mm, 111.628mm, 65.546mm, 126.106mm) (InComponentClass('U_XOR_GATE_20'))
+Rule Violations :0
+
+Processing Rule : Room U_XOR_GATE_21 (Bounding Region = (50.8mm, 97.089mm, 70.104mm, 111.567mm) (InComponentClass('U_XOR_GATE_21'))
+Rule Violations :0
+
+Processing Rule : Room U_OR_GATE_31 (Bounding Region = (70.484mm, 95.946mm, 83.946mm, 111.44mm) (InComponentClass('U_OR_GATE_31'))
+Rule Violations :0
+
+Processing Rule : Room U_OR_GATE_32 (Bounding Region = (64.684mm, 80.198mm, 78.146mm, 95.692mm) (InComponentClass('U_OR_GATE_32'))
+Rule Violations :0
+
+Processing Rule : Room U_OR_GATE_41 (Bounding Region = (36.83mm, 79.925mm, 50.292mm, 95.419mm) (InComponentClass('U_OR_GATE_41'))
+Rule Violations :0
+
+Processing Rule : Room U_NOT_GATE_52 (Bounding Region = (98.044mm, 90.699mm, 109.474mm, 100.859mm) (InComponentClass('U_NOT_GATE_52'))
+Rule Violations :0
+
+Processing Rule : Room U_AND_GATE_43 (Bounding Region = (23.18mm, 86.136mm, 36.642mm, 101.376mm) (InComponentClass('U_AND_GATE_43'))
+Rule Violations :0
+
+Processing Rule : Room U_AND_GATE_42 (Bounding Region = (78.628mm, 80.375mm, 92.09mm, 95.615mm) (InComponentClass('U_AND_GATE_42'))
+Rule Violations :0
+
+Processing Rule : Room U_AND_GATE_44 (Bounding Region = (84.344mm, 96.129mm, 97.806mm, 111.369mm) (InComponentClass('U_AND_GATE_44'))
+Rule Violations :0
+
+Processing Rule : Room U_AND_GATE_45 (Bounding Region = (92.348mm, 111.74mm, 105.81mm, 126.98mm) (InComponentClass('U_AND_GATE_45'))
+Rule Violations :0
+
+Processing Rule : Room U_NAND_GATE_10 (Bounding Region = (38.221mm, 95.788mm, 50.413mm, 111.536mm) (InComponentClass('U_NAND_GATE_10'))
+Rule Violations :0
+
+Processing Rule : Room U_NOT_GATE_50 (Bounding Region = (106.03mm, 111.76mm, 117.46mm, 121.92mm) (InComponentClass('U_NOT_GATE_50'))
+Rule Violations :0
+
+Processing Rule : Room U_NOT_GATE_51 (Bounding Region = (98.156mm, 101.168mm, 109.586mm, 111.328mm) (InComponentClass('U_NOT_GATE_51'))
+Rule Violations :0
+
+Processing Rule : Room U_NAND_GATE_40 (Bounding Region = (79.756mm, 111.746mm, 91.948mm, 127.494mm) (InComponentClass('U_NAND_GATE_40'))
+Rule Violations :0
+
+Processing Rule : Room U_NOT_GATE_01 (Bounding Region = (26.67mm, 101.346mm, 38.1mm, 111.506mm) (InComponentClass('U_NOT_GATE_01'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01

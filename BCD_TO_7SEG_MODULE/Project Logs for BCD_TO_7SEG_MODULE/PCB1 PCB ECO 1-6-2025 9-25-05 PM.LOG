@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=Y_U_OR_GATE3 Pin=Q2_U_AND_GATE1-3
+Added Pin To Net: NetName=Y_U_OR_GATE3 Pin=Q2_U_AND_GATE2-3
+Added Pin To Net: NetName=Y_U_OR_GATE3 Pin=Q5_U_OR_GATE4-3
+Added Pin To Net: NetName=Y_U_OR_GATE3 Pin=RO1_U_AND_GATE1-1
+Added Pin To Net: NetName=Y_U_OR_GATE3 Pin=RO1_U_AND_GATE2-1
+Added Pin To Net: NetName=Y_U_OR_GATE3 Pin=RO2_U_OR_GATE4-1
+Added Pin To Net: NetName=Y_U_OR_GATE3 Pin=Y_R1_U_AND_GATE1-2
+Added Pin To Net: NetName=Y_U_OR_GATE3 Pin=Y_R1_U_AND_GATE2-2
+Added Pin To Net: NetName=Y_U_OR_GATE3 Pin=Y_R2_U_OR_GATE4-2
+Change Net Name : Old Net Name=Y_U_OR_GATE3 New Net Name=NetLabel5_3

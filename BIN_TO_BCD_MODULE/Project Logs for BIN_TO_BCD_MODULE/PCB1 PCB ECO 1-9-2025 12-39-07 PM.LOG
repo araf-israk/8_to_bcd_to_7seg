@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=+5 Pin=IN1-1
+Removed Pin From Net: NetName=+5 Pin=IN1-2
+Removed Pin From Net: NetName=DIN4 Pin=IN1-3
+Removed Pin From Net: NetName=DIN3 Pin=IN1-4
+Removed Pin From Net: NetName=DIN2 Pin=IN2-1
+Removed Pin From Net: NetName=DIN1 Pin=IN2-2
+Removed Pin From Net: NetName=GND Pin=IN2-3
+Removed Pin From Net: NetName=GND Pin=IN2-4
+Removed Pin From Net: NetName=+5 Pin=OUT1-1
+Removed Pin From Net: NetName=+5 Pin=OUT1-2
+Removed Pin From Net: NetName=DO4 Pin=OUT1-3
+Removed Pin From Net: NetName=DO3 Pin=OUT1-4
+Removed Pin From Net: NetName=DO2 Pin=OUT2-1
+Removed Pin From Net: NetName=DO1 Pin=OUT2-2
+Removed Pin From Net: NetName=GND Pin=OUT2-3
+Removed Pin From Net: NetName=GND Pin=OUT2-4
+Removed Member From Class: ClassName=MODULE_1 Member=IN1
+Removed Member From Class: ClassName=MODULE_1 Member=IN2
+Removed Member From Class: ClassName=MODULE_1 Member=OUT1
+Removed Member From Class: ClassName=MODULE_1 Member=OUT2
+Added Component: Designator=IN(2.54mm_TH_1x8_pin_header)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT(2.54mm_TH_1x8_pin_header)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=IN-1
+Added Pin To Net: NetName=+5 Pin=IN-2
+Added Pin To Net: NetName=DIN4 Pin=IN-3
+Added Pin To Net: NetName=DIN3 Pin=IN-4
+Added Pin To Net: NetName=DIN2 Pin=IN-5
+Added Pin To Net: NetName=DIN1 Pin=IN-6
+Added Pin To Net: NetName=GND Pin=IN-7
+Added Pin To Net: NetName=GND Pin=IN-8
+Added Pin To Net: NetName=+5 Pin=OUT-1
+Added Pin To Net: NetName=+5 Pin=OUT-2
+Added Pin To Net: NetName=DO4 Pin=OUT-3
+Added Pin To Net: NetName=DO3 Pin=OUT-4
+Added Pin To Net: NetName=DO2 Pin=OUT-5
+Added Pin To Net: NetName=DO1 Pin=OUT-6
+Added Pin To Net: NetName=GND Pin=OUT-7
+Added Pin To Net: NetName=GND Pin=OUT-8
+Added Member To Class: ClassName=MODULE_1 Member=Component IN 2.54mm_TH_1x8_pin_header
+Added Member To Class: ClassName=MODULE_1 Member=Component OUT 2.54mm_TH_1x8_pin_header
+Added Room: Name=MODULE_1

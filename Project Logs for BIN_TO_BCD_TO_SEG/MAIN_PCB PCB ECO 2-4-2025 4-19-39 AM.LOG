@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=DDIN1 Pin=R9-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=R9-2
+Removed Pin From Net: NetName=DDIN2 Pin=R10-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=R10-2
+Removed Pin From Net: NetName=DDIN3 Pin=R11-1
+Removed Pin From Net: NetName=NetQ3_2 Pin=R11-2
+Removed Pin From Net: NetName=DDIN4 Pin=R12-1
+Removed Pin From Net: NetName=NetQ4_2 Pin=R12-2
+Removed Pin From Net: NetName=+5 Pin=R13-1
+Removed Pin From Net: NetName=Net*_1 Pin=R13-2
+Removed Pin From Net: NetName=+5 Pin=R14-1
+Removed Pin From Net: NetName=Net*1_1 Pin=R14-2
+Removed Pin From Net: NetName=+5 Pin=R15-1
+Removed Pin From Net: NetName=Net*2_1 Pin=R15-2
+Removed Pin From Net: NetName=+5 Pin=R16-1
+Removed Pin From Net: NetName=Net*3_1 Pin=R16-2
+Removed Pin From Net: NetName=DDIN7 Pin=R20-1
+Removed Pin From Net: NetName=NetQ5_2 Pin=R20-2
+Removed Pin From Net: NetName=DDIN6 Pin=R21-1
+Removed Pin From Net: NetName=NetQ6_2 Pin=R21-2
+Removed Pin From Net: NetName=DDIN5 Pin=R22-1
+Removed Pin From Net: NetName=NetQ7_2 Pin=R22-2
+Removed Pin From Net: NetName=DDIN8 Pin=R23-1
+Removed Pin From Net: NetName=NetQ8_2 Pin=R23-2
+Removed Pin From Net: NetName=+5 Pin=R24-1
+Removed Pin From Net: NetName=Net*4_1 Pin=R24-2
+Removed Pin From Net: NetName=+5 Pin=R25-1
+Removed Pin From Net: NetName=Net*5_1 Pin=R25-2
+Removed Pin From Net: NetName=+5 Pin=R26-1
+Removed Pin From Net: NetName=Net*6_1 Pin=R26-2
+Removed Pin From Net: NetName=+5 Pin=R27-1
+Removed Pin From Net: NetName=Net*7_1 Pin=R27-2
+Added Component: Designator=R9(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R13(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R14(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R16(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R20(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R21(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R22(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R24(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R25(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R26(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R27(TH_Resistor_vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VAL"; Value = "330"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_2 Pin=R9-1
+Added Pin To Net: NetName=DDIN1 Pin=R9-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R10-1
+Added Pin To Net: NetName=DDIN2 Pin=R10-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R11-1
+Added Pin To Net: NetName=DDIN3 Pin=R11-2
+Added Pin To Net: NetName=+5 Pin=R12-1
+Added Pin To Net: NetName=Net*_1 Pin=R12-2
+Added Pin To Net: NetName=+5 Pin=R13-1
+Added Pin To Net: NetName=Net*1_1 Pin=R13-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R14-1
+Added Pin To Net: NetName=DDIN4 Pin=R14-2
+Added Pin To Net: NetName=+5 Pin=R15-1
+Added Pin To Net: NetName=Net*2_1 Pin=R15-2
+Added Pin To Net: NetName=+5 Pin=R16-1
+Added Pin To Net: NetName=Net*3_1 Pin=R16-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R20-1
+Added Pin To Net: NetName=DDIN7 Pin=R20-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R21-1
+Added Pin To Net: NetName=DDIN6 Pin=R21-2
+Added Pin To Net: NetName=NetQ7_2 Pin=R22-1
+Added Pin To Net: NetName=DDIN5 Pin=R22-2
+Added Pin To Net: NetName=NetQ8_2 Pin=R23-1
+Added Pin To Net: NetName=DDIN8 Pin=R23-2
+Added Pin To Net: NetName=+5 Pin=R24-1
+Added Pin To Net: NetName=Net*4_1 Pin=R24-2
+Added Pin To Net: NetName=+5 Pin=R25-1
+Added Pin To Net: NetName=Net*5_1 Pin=R25-2
+Added Pin To Net: NetName=+5 Pin=R26-1
+Added Pin To Net: NetName=Net*6_1 Pin=R26-2
+Added Pin To Net: NetName=+5 Pin=R27-1
+Added Pin To Net: NetName=Net*7_1 Pin=R27-2
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SEGHUN 7SEG_1DIGIT_CA_1INCH
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SEGONE 7SEG_1DIGIT_CA_1INCH
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SEGTEN 7SEG_1DIGIT_CA_1INCH
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SW2 MTS_102_3P_125V_6A
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SW3 MTS_102_3P_125V_6A
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SW4 MTS_102_3P_125V_6A
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SW5 MTS_102_3P_125V_6A
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SW6 MTS_102_3P_125V_6A
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SW7 MTS_102_3P_125V_6A
+Added Member To Class: ClassName=MAIN_BOARD Member=Component SW8 MTS_102_3P_125V_6A
+Added Room: Name=MAIN_BOARD
