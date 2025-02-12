@@ -1,3 +1,4 @@
 Assem1.SLDASM filter=lfs diff=lfs merge=lfs -text
 MAIN_PCB.PcbDoc filter=lfs diff=lfs merge=lfs -text
 MAIN_PCB.step filter=lfs diff=lfs merge=lfs -text
+BCD_TO_7SEG_MODULE/PCB_V0.step filter=lfs diff=lfs merge=lfs -text
